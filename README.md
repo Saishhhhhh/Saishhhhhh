@@ -85,9 +85,6 @@ Started from printing `Hello World`, now building **AI agents & full-stack syste
 ### 🧠 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishhhhhh&layout=compact&theme=tokyonight&hide_border=false" height="160"/>
 
-### 📟 Dev Metrics Dashboard
-<img src="https://raw.githubusercontent.com/saishhhhhh/saishhhhhh/output/github-metrics-dashboard.svg" width="100%"/>
-
 </div>
 
 ---
