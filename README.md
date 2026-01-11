@@ -12,93 +12,97 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
----
 
 ## 👋 Hey, I'm **Saish**
 
-Full-Stack Developer • AI Explorer • Someone who Googles error messages for sport ⚔️💻
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Data+Scientist+%E2%80%A2+AI+Engineer+%E2%80%A2+Full-Stack+AI+Builder;Building+Machine+Learning+Systems;Creating+AI+Agents+%26+RAG+Pipelines;Full-Stack+Development+with+MERN" alt="Typing SVG" />
+
+<div align="center">
 
 I love building real products — not just tutorial projects.  
-Started from printing `Hello World`, now building **AI agents & full-stack systems**.
+Started from printing `Hello World`, now building **ML-powered systems, AI agents, and Full-Stack platforms**.
 
-- 🧠 Love working with **AI + Web**
-- 🛠️ Focused on **RAG, LangChain & MERN**
-- 🚀 Obsessed with **shipping projects, improving daily**
-- ☕ Surviving on caffeine, debugging, and delusion
+</div>
+
+### 🔭 Current Focus
+- 🧠 Working with **Machine Learning, GenAI & AI Agents**  
+- 🛠️ Building with **RAG, LangChain, FASTAPI & MERN**  
+- 📊 Turning data into **predictions, insights & actions**  
+- 🚀 Obsessed with **shipping real AI products**
+
+<div align="center">
 
 *"Write code. Break code. Fix it. Repeat."*
 
----
+</div>
 
 ## 🚀 Tech Stack
 
 <div align="center">
 
-### 💻 **Core & Languages**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-
-### 🌐 **Web**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.simpleicons.org/redux/764ABC" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://skillicons.dev/icons?i=express" height="40"/>
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-
-### 🧠 **AI & Data**
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40"/>
-<img src="https://matplotlib.org/_static/logo_dark.svg" height="40"/>
-<img src="https://simpleicons.org/icons/langchain.svg" height="60"/>
-
-### 🗄️ **Databases**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-
-### ⚙️ **Tools**
-<img src="https://skillicons.dev/icons?i=git" height="40"/>
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-<img src="https://skillicons.dev/icons?i=postman" height="40"/>
-
-### 🎨 **Editing / Design**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40"/>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Core & Languages</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>🧠 AI & Data</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="55"/>
+      <img src="https://cdn.simpleicons.org/langchain/white" height="50"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 Web Technologies</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+      <img src="https://cdn.simpleicons.org/redux/764ABC" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+      <img src="https://skillicons.dev/icons?i=express" height="40"/>
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>🗄️ Databases</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚙️ Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git" height="40"/>
+      <img src="https://skillicons.dev/icons?i=github" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+      <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+    </td>
+     <td align="center" width="50%">
+      <h3>🎨 Design</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40"/>
+    </td>
+  </tr>
+</table>
 
 </div>
-
----
-
-## 📊 GitHub Stats & Insights
 
 <div align="center">
 
-### 🔥 GitHub Activity
-<img src="https://github-readme-stats.vercel.app/api?username=saishhhhhh&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="160"/>
+### 🎮 When I'm not coding
+Gaming 🎮 • Editing videos 🎬 • Trying to fix my sleep cycle 😵☕
 
-### 🧠 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishhhhhh&layout=compact&theme=tokyonight&hide_border=false" height="160"/>
+<br />
+
+⭐ If you like my work — drop a star, let's build crazy stuff together 🚀
 
 </div>
-
----
-
-### 🎮 When I'm not coding
-- Gaming 🎮  
-- Editing videos 🎬  
-- Trying to fix my sleep cycle (mission failed every time) 😵☕
-
-
-
-⭐ If you like my work — drop a star, let's build crazy stuff together 🚀  
-
----
 
 ## 🐍 Contribution Snake
 
@@ -108,3 +112,4 @@ Started from printing `Hello World`, now building **AI agents & full-stack syste
 ![snake dark](https://raw.githubusercontent.com/saishhhhhh/saishhhhhh/output/github-snake-dark.svg#gh-dark-mode-only)
 
 </div>
+
