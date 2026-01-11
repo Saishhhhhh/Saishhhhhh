@@ -40,56 +40,47 @@ Started from printing `Hello World`, now building **ML-powered systems, AI agent
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>💻 Core & Languages</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>🧠 AI & Data</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="55"/>
-      <img src="https://cdn.simpleicons.org/langchain/white" height="50"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🌐 Web Technologies</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-      <img src="https://cdn.simpleicons.org/redux/764ABC" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-      <img src="https://skillicons.dev/icons?i=express" height="40"/>
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>🗄️ Databases</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-      <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>⚙️ Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git" height="40"/>
-      <img src="https://skillicons.dev/icons?i=github" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-      <img src="https://skillicons.dev/icons?i=postman" height="40"/>
-    </td>
-     <td align="center" width="50%">
-      <h3>🎨 Design</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40"/>
-    </td>
-  </tr>
-</table>
+### 💻 Core & Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" style="margin: 0 10px;" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" style="margin: 0 10px;" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" style="margin: 0 10px;" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" style="margin: 0 10px;" />
+
+<br />
+
+### 🧠 AI & Data
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" style="margin: 0 10px;" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" style="margin: 0 10px;" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="Matplotlib" style="margin: 0 10px;" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="Scikit-Learn" style="margin: 0 10px;" /> &nbsp;
+<img src="https://cdn.simpleicons.org/langchain/white" height="50" alt="LangChain" style="margin: 0 10px;" />
+
+<br />
+
+### 🌐 Web Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" style="margin: 0 10px;" /> &nbsp;
+<img src="https://cdn.simpleicons.org/redux/764ABC" height="50" alt="Redux" style="margin: 0 10px;" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="NodeJS" style="margin: 0 10px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=express" height="50" alt="Express" style="margin: 0 10px;" /> &nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="Tailwind" style="margin: 0 10px;" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" style="margin: 0 10px;" />
+
+<br />
+
+### 🗄️ Databases & Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" style="margin: 0 10px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" height="50" style="margin: 0 10px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="50" style="margin: 0 10px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="50" style="margin: 0 10px;" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" style="margin: 0 10px;" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=postman" height="50" style="margin: 0 10px;" />
+
+<br />
+
+### 🎨 Design
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="50" style="margin: 0 10px;" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="50" style="margin: 0 10px;" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="50" style="margin: 0 10px;" />
 
 </div>
 
