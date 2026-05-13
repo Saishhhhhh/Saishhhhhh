@@ -22,17 +22,16 @@
 
 <div align="center">
 
-I love building real products — not just tutorial projects.  
-Started from printing `Hello World`, now building **production-grade RAG systems, autonomous AI agents, and Full-Stack AI platforms**.
+I like building things that actually work — not just tutorial projects.  
+Currently focused on production RAG systems, agentic AI, and full-stack AI platforms.
 
 </div>
 
-### 🔭 Current Focus
-- 🧠 Building **Agentic AI systems** with LangGraph, ReAct workflows & multi-agent orchestration
-- 🔍 Engineering **Advanced RAG** — hybrid retrieval, RRF fusion, cross-encoder reranking, query expansion
-- 🤗 Working with **LLMs & Finetuning** via Hugging Face, Transformers & Prompt Engineering
-- ⚡ Deploying **production AI pipelines** with FastAPI, Docker, ChromaDB & vector databases
-- 🚀 Obsessed with **shipping real AI products** that go beyond demos
+### Current Focus
+- Agentic AI with LangGraph, ReAct workflows & multi-agent orchestration
+- Advanced RAG — hybrid retrieval, RRF fusion, cross-encoder reranking, query expansion
+- LLMs & finetuning via Hugging Face, Transformers & prompt engineering
+- Production AI pipelines with FastAPI, Docker, ChromaDB & vector databases
 
 <div align="center">
 
@@ -70,13 +69,6 @@ Started from printing `Hello World`, now building **production-grade RAG systems
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6B5B95?style=flat-square&logo=openai&logoColor=white)
 ![Finetuning](https://img.shields.io/badge/Finetuning-FF4B4B?style=flat-square&logo=huggingface&logoColor=white)
 
-### ⚙️ Advanced RAG Techniques
-![Hybrid Retrieval](https://img.shields.io/badge/Hybrid%20Retrieval-0078D4?style=flat-square)
-![RRF Fusion](https://img.shields.io/badge/RRF%20Fusion-0078D4?style=flat-square)
-![Cross-Encoder Reranking](https://img.shields.io/badge/Cross--Encoder%20Reranking-0078D4?style=flat-square)
-![Query Expansion](https://img.shields.io/badge/Query%20Expansion-0078D4?style=flat-square)
-![BM25](https://img.shields.io/badge/BM25-0078D4?style=flat-square)
-
 ### 🌐 Web Technologies
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
@@ -109,12 +101,7 @@ Started from printing `Hello World`, now building **production-grade RAG systems
 
 <div align="center">
 
-### 🎮 When I'm not coding
-Gaming 🎮 • Editing videos 🎬 • Solving Rubik's Cubes 🧊 • Watching movies 🎬 • Trying to fix my sleep cycle 😵☕
-
-<br />
-
-⭐ If you like my work — drop a star, let's build crazy stuff together 🚀
+⭐ If you like what you see, drop a star and let's build something together.
 
 </div>
 
