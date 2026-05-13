@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/saishhhhhh/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://saishhhhhh.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://discord.com/users/saish4593" target="_blank">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
@@ -15,20 +18,21 @@
 
 ## 👋 Hey, I'm **Saish**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Data+Scientist+%E2%80%A2+AI+Engineer+%E2%80%A2+Full-Stack+AI+Builder;Building+Machine+Learning+Systems;Creating+AI+Agents+%26+RAG+Pipelines;Full-Stack+Development+with+MERN" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Data+Scientist+%E2%80%A2+AI+Engineer+%E2%80%A2+Full-Stack+AI+Builder;Building+Production-Grade+RAG+%26+Agentic+Systems;Creating+Multi-Agent+AI+Platforms+%26+LLM+Pipelines;Full-Stack+Development+with+MERN+%26+FastAPI" alt="Typing SVG" />
 
 <div align="center">
 
 I love building real products — not just tutorial projects.  
-Started from printing `Hello World`, now building **ML-powered systems, AI agents, and Full-Stack platforms**.
+Started from printing `Hello World`, now building **production-grade RAG systems, autonomous AI agents, and Full-Stack AI platforms**.
 
 </div>
 
 ### 🔭 Current Focus
-- 🧠 Working with **Machine Learning, GenAI & AI Agents**  
-- 🛠️ Building with **RAG, LangChain, FASTAPI & MERN**  
-- 📊 Turning data into **predictions, insights & actions**  
-- 🚀 Obsessed with **shipping real AI products**
+- 🧠 Building **Agentic AI systems** with LangGraph, ReAct workflows & multi-agent orchestration
+- 🔍 Engineering **Advanced RAG** — hybrid retrieval, RRF fusion, cross-encoder reranking, query expansion
+- 🤗 Working with **LLMs & Finetuning** via Hugging Face, Transformers & Prompt Engineering
+- ⚡ Deploying **production AI pipelines** with FastAPI, Docker, ChromaDB & vector databases
+- 🚀 Obsessed with **shipping real AI products** that go beyond demos
 
 <div align="center">
 
@@ -40,54 +44,73 @@ Started from printing `Hello World`, now building **ML-powered systems, AI agent
 
 <div align="center">
 
-### 💻 Core & Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" style="margin: 0 10px;" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" style="margin: 0 10px;" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" style="margin: 0 10px;" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" style="margin: 0 10px;" />
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<br />
+### 🤖 AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-### 🧠 AI & Data
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" style="margin: 0 10px;" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" style="margin: 0 10px;" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="Matplotlib" style="margin: 0 10px;" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="Scikit-Learn" style="margin: 0 10px;" /> &nbsp;
-<img src="https://cdn.simpleicons.org/langchain/white" height="50" alt="LangChain" style="margin: 0 10px;" />
+### 🧠 GenAI & LLM Systems
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6B35?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=flat-square&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6B5B95?style=flat-square&logo=openai&logoColor=white)
+![Finetuning](https://img.shields.io/badge/Finetuning-FF4B4B?style=flat-square&logo=huggingface&logoColor=white)
 
-<br />
+### ⚙️ Advanced RAG Techniques
+![Hybrid Retrieval](https://img.shields.io/badge/Hybrid%20Retrieval-0078D4?style=flat-square)
+![RRF Fusion](https://img.shields.io/badge/RRF%20Fusion-0078D4?style=flat-square)
+![Cross-Encoder Reranking](https://img.shields.io/badge/Cross--Encoder%20Reranking-0078D4?style=flat-square)
+![Query Expansion](https://img.shields.io/badge/Query%20Expansion-0078D4?style=flat-square)
+![BM25](https://img.shields.io/badge/BM25-0078D4?style=flat-square)
 
 ### 🌐 Web Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" style="margin: 0 10px;" /> &nbsp;
-<img src="https://cdn.simpleicons.org/redux/764ABC" height="50" alt="Redux" style="margin: 0 10px;" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="NodeJS" style="margin: 0 10px;" /> &nbsp;
-<img src="https://skillicons.dev/icons?i=express" height="50" alt="Express" style="margin: 0 10px;" /> &nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="Tailwind" style="margin: 0 10px;" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" style="margin: 0 10px;" />
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-<br />
+### 🗄️ Databases & Vector Stores
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 
-### 🗄️ Databases & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" style="margin: 0 10px;" /> &nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" height="50" style="margin: 0 10px;" /> &nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="50" style="margin: 0 10px;" /> &nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="50" style="margin: 0 10px;" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" style="margin: 0 10px;" /> &nbsp;
-<img src="https://skillicons.dev/icons?i=postman" height="50" style="margin: 0 10px;" />
+### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-<br />
-
-### 🎨 Design
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="50" style="margin: 0 10px;" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="50" style="margin: 0 10px;" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="50" style="margin: 0 10px;" />
+### 🎨 Creative Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
 
 </div>
 
 <div align="center">
 
 ### 🎮 When I'm not coding
-Gaming 🎮 • Editing videos 🎬 • Trying to fix my sleep cycle 😵☕
+Gaming 🎮 • Editing videos 🎬 • Solving Rubik's Cubes 🧊 • Watching movies 🎬 • Trying to fix my sleep cycle 😵☕
 
 <br />
 
@@ -103,4 +126,3 @@ Gaming 🎮 • Editing videos 🎬 • Trying to fix my sleep cycle 😵☕
 ![snake dark](https://raw.githubusercontent.com/saishhhhhh/saishhhhhh/output/github-snake-dark.svg#gh-dark-mode-only)
 
 </div>
-
