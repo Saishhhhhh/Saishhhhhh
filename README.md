@@ -22,16 +22,16 @@
 
 <div align="center">
 
-I like building things that actually work — not just tutorial projects.  
-Currently focused on production RAG systems, agentic AI, and full-stack AI platforms.
+I love building new projects, It always starts by me trying to solve my own problem and then a full fledged project is made out of it with the best of my knowledge and technology i know
 
 </div>
 
 ### Current Focus
-- Agentic AI with LangGraph, ReAct workflows & multi-agent orchestration
-- Advanced RAG — hybrid retrieval, RRF fusion, cross-encoder reranking, query expansion
-- LLMs & finetuning via Hugging Face, Transformers & prompt engineering
-- Production AI pipelines with FastAPI, Docker, ChromaDB & vector databases
+- Building agentic AI systems with LangGraph, ReAct workflows & multi-agent orchestration
+- Engineering advanced RAG pipelines — hybrid retrieval, RRF fusion, cross-encoder reranking & query expansion
+- Working across the full ML/DL stack — Scikit-Learn, PyTorch, Transformers & Hugging Face
+- Exploring GenAI, LLM finetuning & prompt engineering for real-world applications
+- Shipping production AI systems with FastAPI, Docker & vector databases
 
 <div align="center">
 
