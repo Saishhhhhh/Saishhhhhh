@@ -29,22 +29,8 @@
 
 ---
 
-<!-- 01 / currently building -->
-<img src="https://img.shields.io/badge/01──currently_building-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30&logoColor=white" alt="01 / currently building"/>
-
-<br/><br/>
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| **SkillFit AI v2** | React · FastAPI · Pinecone · SBERT | 🔵 `active` |
-| **4Perspective** | LangGraph · Qdrant · RAG · Clerk | ✅ `shipped` |
-| **AI Newsletter Agent** | LangChain · Web Search · HTML | ✅ `shipped` |
-| **DataSense** | LangChain · Pandas · Matplotlib | ✅ `shipped` |
-
----
-
-<!-- 02 / tech stack -->
-<img src="https://img.shields.io/badge/02──tech_stack-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30&logoColor=white" alt="02 / tech stack"/>
+<!-- 01 / tech stack -->
+<img src="https://img.shields.io/badge/01──tech_stack-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30&logoColor=white" alt="01 / tech stack"/>
 
 <br/><br/>
 
