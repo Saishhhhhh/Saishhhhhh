@@ -99,8 +99,8 @@
 
 ---
 
-<!-- 03 / github stats -->
-<img src="https://img.shields.io/badge/03──github_stats-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30&logoColor=white" alt="03 / github stats"/>
+<!-- 02 / github stats -->
+<img src="https://img.shields.io/badge/02──github_stats-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30&logoColor=white" alt="02 / github stats"/>
 
 <br/><br/>
 
@@ -114,8 +114,8 @@
 
 ---
 
-<!-- 04 / contributions -->
-<img src="https://img.shields.io/badge/04──contributions-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30&logoColor=white" alt="04 / contributions"/>
+<!-- 03 / contributions -->
+<img src="https://img.shields.io/badge/03──contributions-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30&logoColor=white" alt="03 / contributions"/>
 
 <br/><br/>
 
