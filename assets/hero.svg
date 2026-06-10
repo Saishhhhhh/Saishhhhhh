@@ -1,0 +1,103 @@
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d1a"/>
+      <stop offset="100%" style="stop-color:#13131f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed"/>
+      <stop offset="100%" style="stop-color:#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="nameg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e2e8f0"/>
+      <stop offset="60%" style="stop-color:#c4b5fd"/>
+    </linearGradient>
+    <clipPath id="card">
+      <rect width="860" height="200" rx="16"/>
+    </clipPath>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="860" height="200" rx="16" fill="url(#bg)"/>
+
+  <!-- subtle purple glow top-right -->
+  <ellipse cx="720" cy="40" rx="160" ry="90" fill="#7c3aed" opacity="0.08" filter="url(#glow)"/>
+  <!-- subtle cyan glow bottom-left -->
+  <ellipse cx="140" cy="170" rx="130" ry="70" fill="#06b6d4" opacity="0.07" filter="url(#glow)"/>
+
+  <!-- left accent bar -->
+  <rect x="0" y="0" width="4" height="200" rx="2" fill="url(#accent)"/>
+
+  <!-- top accent line -->
+  <rect x="4" y="0" width="856" height="1" fill="#ffffff" opacity="0.05"/>
+
+  <!-- dot grid pattern (subtle) -->
+  <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="1" fill="#ffffff" opacity="0.03"/>
+  </pattern>
+  <rect x="4" y="0" width="856" height="200" fill="url(#dots)" clip-path="url(#card)"/>
+
+  <!-- avatar circle -->
+  <circle cx="68" cy="100" r="40" fill="#1a1a2e" stroke="#7c3aed" stroke-width="1.5"/>
+  <text x="68" y="107" font-family="monospace" font-size="28" text-anchor="middle" fill="#c4b5fd">S</text>
+
+  <!-- name -->
+  <text x="128" y="72" font-family="'Segoe UI', system-ui, sans-serif" font-size="26" font-weight="700" fill="url(#nameg)">Saish Baviskar</text>
+
+  <!-- role pills row -->
+  <!-- pill 1: AI Engineer -->
+  <rect x="128" y="82" width="102" height="22" rx="11" fill="#1e1e35" stroke="#7c3aed" stroke-width="1"/>
+  <text x="179" y="97" font-family="'Fira Code', monospace" font-size="11" text-anchor="middle" fill="#c4b5fd">AI Engineer</text>
+
+  <!-- pill 2: ML Engineer -->
+  <rect x="238" y="82" width="102" height="22" rx="11" fill="#1e1e35" stroke="#7c3aed" stroke-width="1"/>
+  <text x="289" y="97" font-family="'Fira Code', monospace" font-size="11" text-anchor="middle" fill="#c4b5fd">ML Engineer</text>
+
+  <!-- pill 3: Full-Stack AI -->
+  <rect x="348" y="82" width="128" height="22" rx="11" fill="#1e1e35" stroke="#06b6d4" stroke-width="1"/>
+  <text x="412" y="97" font-family="'Fira Code', monospace" font-size="11" text-anchor="middle" fill="#67e8f9">Full-Stack AI Builder</text>
+
+  <!-- divider -->
+  <line x1="128" y1="116" x2="640" y2="116" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1"/>
+
+  <!-- meta row -->
+  <!-- company icon + text -->
+  <text x="128" y="135" font-family="monospace" font-size="12" fill="#6b7280">▪</text>
+  <text x="142" y="135" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9ca3af">Cantilever Labs</text>
+  <text x="240" y="135" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#4b5563">·</text>
+  <text x="252" y="135" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#7c3aed">AI/ML Intern</text>
+
+  <!-- location -->
+  <text x="128" y="156" font-family="monospace" font-size="12" fill="#6b7280">▪</text>
+  <text x="142" y="156" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9ca3af">Pune, India</text>
+  <text x="215" y="156" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#4b5563">·</text>
+  <text x="227" y="156" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#06b6d4">Open to Roles</text>
+
+  <!-- right side: focus tags vertical -->
+  <!-- tag block header -->
+  <text x="680" y="60" font-family="'Fira Code', monospace" font-size="10" fill="#4b5563" letter-spacing="2">FOCUS</text>
+  <line x1="680" y1="66" x2="840" y2="66" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+
+  <!-- focus tag 1 -->
+  <rect x="680" y="74" width="160" height="26" rx="5" fill="#1a0a2e" stroke="#7c3aed" stroke-width="1" stroke-opacity="0.6"/>
+  <text x="690" y="91" font-family="'Fira Code', monospace" font-size="11" fill="#a78bfa">⬡ Agentic AI</text>
+
+  <!-- focus tag 2 -->
+  <rect x="680" y="108" width="160" height="26" rx="5" fill="#021a1f" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.6"/>
+  <text x="690" y="125" font-family="'Fira Code', monospace" font-size="11" fill="#67e8f9">⬡ RAG Systems</text>
+
+  <!-- focus tag 3 -->
+  <rect x="680" y="142" width="160" height="26" rx="5" fill="#1a0a2e" stroke="#7c3aed" stroke-width="1" stroke-opacity="0.6"/>
+  <text x="690" y="159" font-family="'Fira Code', monospace" font-size="11" fill="#a78bfa">⬡ LLM Pipelines</text>
+
+  <!-- bottom flair: terminal prompt -->
+  <text x="128" y="182" font-family="'Fira Code', monospace" font-size="11" fill="#7c3aed">❯</text>
+  <text x="144" y="182" font-family="'Fira Code', monospace" font-size="11" fill="#4b5563">building production AI systems, one commit at a time</text>
+
+  <!-- bottom border line -->
+  <rect x="4" y="199" width="856" height="1" fill="url(#accent)" opacity="0.4"/>
+</svg>

@@ -17,23 +17,13 @@
 
 </div>
 
----
-
-<div align="center">
-
-<h1>Hey, I'm Saish Baviskar 👋</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+ML+Engineer+%7C+Full-Stack+AI+Builder;Building+Production-Grade+RAG+%26+Agentic+Systems;Multi-Agent+Orchestration+with+LangGraph;LLM+Pipelines+%7C+Prompt+Engineering+%7C+FastAPI" alt="Typing SVG" />
-
 <br/>
 
-```
- 🏢  Cantilever Labs · AI/ML Intern          📍  Pune, India
- 🎯  Agentic AI · RAG Systems · LLM Pipelines
- 💬  "Write code. Break code. Fix it. Repeat."
-```
-
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Saish Baviskar — AI Engineer"/>
 </div>
+
+<br/>
 
 ---
 
