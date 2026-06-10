@@ -21,14 +21,17 @@
 
 <div align="center">
 
-### Saish Baviskar
-AI Engineer &nbsp;·&nbsp; ML Engineer &nbsp;·&nbsp; Full-Stack AI Builder<br/>
-Cantilever Labs · Intern &nbsp;&nbsp;📍 Pune, India 🇮🇳<br/>
-Focus: Agentic AI &nbsp;·&nbsp; RAG Systems &nbsp;·&nbsp; LLM Pipelines
+<h1>Hey, I'm Saish Baviskar 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+ML+Engineer+%7C+Full-Stack+AI+Builder;Building+Production-Grade+RAG+%26+Agentic+Systems;Multi-Agent+Orchestration+with+LangGraph;LLM+Pipelines+%7C+Prompt+Engineering+%7C+FastAPI" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+Production-Grade+RAG+%26+Agentic+Systems;Multi-Agent+Orchestration+with+LangGraph;LLM+Pipelines+%7C+Finetuning+%7C+Prompt+Engineering;FastAPI+%7C+React+%7C+Vector+Databases" alt="Typing SVG" />
+```
+ 🏢  Cantilever Labs · AI/ML Intern          📍  Pune, India
+ 🎯  Agentic AI · RAG Systems · LLM Pipelines
+ 💬  "Write code. Break code. Fix it. Repeat."
+```
 
 </div>
 
@@ -120,10 +123,9 @@ Currently deep in **agentic AI**, **advanced RAG**, and the full stack around th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saishhhhhh&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishhhhhh&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saishhhhhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="55%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saishhhhhh&theme=gruvbox" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saishhhhhh&theme=tokyonight" width="100%"/>
 
 </div>
 
