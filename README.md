@@ -14,8 +14,6 @@
 <a href="mailto:bsaish404@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=saishhhhhh&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
@@ -23,16 +21,11 @@
 
 <div align="center">
 
-```
-❯ cat profile.json
-{
-  "name":      "Saish Bhandarkar",
-  "role":      ["AI Engineer", "ML Engineer", "Full-Stack AI Builder"],
-  "currently": "Cantilever Labs · Intern  📍 Pune, India 🇮🇳",
-  "focus":     ["Agentic AI", "RAG Systems", "LLM Pipelines"],
-  "motto":     "Write code. Break code. Fix it. Repeat."
-}
-```
+**`Saish Bhandarkar`** &nbsp;·&nbsp; AI Engineer &nbsp;·&nbsp; ML Engineer &nbsp;·&nbsp; Full-Stack AI Builder<br/>
+Cantilever Labs · Intern &nbsp;&nbsp;📍 Pune, India 🇮🇳<br/>
+Focus: **Agentic AI** · **RAG Systems** · **LLM Pipelines**
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+Production-Grade+RAG+%26+Agentic+Systems;Multi-Agent+Orchestration+with+LangGraph;LLM+Pipelines+%7C+Finetuning+%7C+Prompt+Engineering;FastAPI+%7C+React+%7C+Vector+Databases" alt="Typing SVG" />
 
@@ -48,7 +41,7 @@ Currently deep in **agentic AI**, **advanced RAG**, and the full stack around th
 - **Agentic systems** — LangGraph, ReAct workflows, multi-agent orchestration
 - **RAG pipelines** — hybrid retrieval, RRF fusion, cross-encoder reranking, query expansion
 - **ML/DL stack** — Scikit-Learn, PyTorch, Transformers, Hugging Face
-- **Production AI** — FastAPI, Docker, vector databases, MLflow experiment tracking
+- **Production AI** — FastAPI, Docker, vector databases
 
 ---
 
@@ -83,8 +76,6 @@ Currently deep in **agentic AI**, **advanced RAG**, and the full stack around th
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6B35?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=flat-square&logo=anthropic&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6B5B95?style=flat-square&logo=openai&logoColor=white)
-![Finetuning](https://img.shields.io/badge/Finetuning-FF4B4B?style=flat-square&logo=huggingface&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square&logoColor=white)
 
 **Web & Backend**
 
@@ -103,7 +94,6 @@ Currently deep in **agentic AI**, **advanced RAG**, and the full stack around th
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
 
 **DevOps & Tools**
@@ -111,8 +101,6 @@ Currently deep in **agentic AI**, **advanced RAG**, and the full stack around th
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -131,36 +119,12 @@ Currently deep in **agentic AI**, **advanced RAG**, and the full stack around th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saishhhhhh&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishhhhhh&layout=compact&theme=tokyo-night&hide_border=true&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saishhhhhh&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishhhhhh&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" width="49%"/>
 
-<img src="https://streak-stats.demolab.com?user=saishhhhhh&theme=tokyo-night&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
-
-</div>
-
----
-
-## 🗂️ Featured Projects
-
-<div align="center">
-
-[![4Perspective](https://github-readme-stats.vercel.app/api/pin/?username=saishhhhhh&repo=4Perspective&theme=tokyo-night&hide_border=true)](https://github.com/saishhhhhh/4Perspective)
-&nbsp;
-[![SkillFit AI](https://github-readme-stats.vercel.app/api/pin/?username=saishhhhhh&repo=SkillFit-AI&theme=tokyo-night&hide_border=true)](https://github.com/saishhhhhh/SkillFit-AI)
-
-[![DataSense](https://github-readme-stats.vercel.app/api/pin/?username=saishhhhhh&repo=DataSense&theme=tokyo-night&hide_border=true)](https://github.com/saishhhhhh/DataSense)
-&nbsp;
-[![AI Newsletter Agent](https://github-readme-stats.vercel.app/api/pin/?username=saishhhhhh&repo=AI-Newsletter-Agent&theme=tokyo-night&hide_border=true)](https://github.com/saishhhhhh/AI-Newsletter-Agent)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saishhhhhh&theme=gruvbox" width="100%"/>
 
 </div>
-
-| Project | What it does | Stack |
-|--------|--------------|-------|
-| **[4Perspective](https://github.com/saishhhhhh/4Perspective)** | Four AI personas debate your decisions via multi-agent group chat | LangGraph · Qdrant · RAG · React · Clerk |
-| **[SkillFit AI v2](https://github.com/saishhhhhh/SkillFit-AI)** | Career intelligence platform with dual-vector scoring & 3-layer NER | FastAPI · Pinecone · SBERT · MLflow · Supabase |
-| **[DataSense](https://github.com/saishhhhhh/DataSense)** | Upload a CSV, ask questions in plain English, get charts + insights | LangChain · Pandas · Matplotlib |
-| **[AI Newsletter Agent](https://github.com/saishhhhhh/AI-Newsletter-Agent)** | Autonomous agent that queries live web sources → production HTML newsletter | LangChain · Web Search · Python |
 
 ---
 
