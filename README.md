@@ -21,9 +21,10 @@
 
 <div align="center">
 
-**`Saish Bhandarkar`** &nbsp;·&nbsp; AI Engineer &nbsp;·&nbsp; ML Engineer &nbsp;·&nbsp; Full-Stack AI Builder<br/>
+### Saish Baviskar
+AI Engineer &nbsp;·&nbsp; ML Engineer &nbsp;·&nbsp; Full-Stack AI Builder<br/>
 Cantilever Labs · Intern &nbsp;&nbsp;📍 Pune, India 🇮🇳<br/>
-Focus: **Agentic AI** · **RAG Systems** · **LLM Pipelines**
+Focus: Agentic AI &nbsp;·&nbsp; RAG Systems &nbsp;·&nbsp; LLM Pipelines
 
 <br/>
 
@@ -119,7 +120,7 @@ Currently deep in **agentic AI**, **advanced RAG**, and the full stack around th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saishhhhhh&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saishhhhhh&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&rank_icon=github" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishhhhhh&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" width="49%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saishhhhhh&theme=gruvbox" width="100%"/>
