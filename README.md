@@ -26,8 +26,6 @@
 <!-- 01 / tech stack -->
 <img src="https://img.shields.io/badge/01──tech_stack-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30" alt="01 / tech stack"/>
 
-<br/><br/>
-
 <div align="center">
 
 `// AI & LLM Systems`
@@ -37,7 +35,6 @@
 ![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7c3aed?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=flat-square&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Eng.-6B5B95?style=flat-square&logoColor=white)
 
 `// ML / DL`
 
@@ -80,8 +77,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 `// Creative`
 
@@ -96,8 +91,6 @@
 <!-- 02 / github stats -->
 <img src="https://img.shields.io/badge/02──github_stats-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30" alt="02 / github stats"/>
 
-<br/><br/>
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=saishhhhhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="55%"/>
@@ -110,8 +103,6 @@
 
 <!-- 03 / contributions -->
 <img src="https://img.shields.io/badge/03──contributions-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30" alt="03 / contributions"/>
-
-<br/><br/>
 
 <div align="center">
 
