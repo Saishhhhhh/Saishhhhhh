@@ -1,6 +1,8 @@
 ﻿<div align="center">
-  <img src="./assets/Mario.gif" width="100%"/>
+  <img src="./assets/hero.svg" width="100%" alt="Saish Baviskar — AI Engineer"/>
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -19,18 +21,10 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Saish Baviskar — AI Engineer"/>
-</div>
-
-<br/>
-
 ---
 
 <!-- 01 / tech stack -->
-<img src="https://img.shields.io/badge/01──tech_stack-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30&logoColor=white" alt="01 / tech stack"/>
+<img src="https://img.shields.io/badge/01──tech_stack-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30" alt="01 / tech stack"/>
 
 <br/><br/>
 
@@ -100,7 +94,7 @@
 ---
 
 <!-- 02 / github stats -->
-<img src="https://img.shields.io/badge/02──github_stats-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30&logoColor=white" alt="02 / github stats"/>
+<img src="https://img.shields.io/badge/02──github_stats-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30" alt="02 / github stats"/>
 
 <br/><br/>
 
@@ -115,7 +109,7 @@
 ---
 
 <!-- 03 / contributions -->
-<img src="https://img.shields.io/badge/03──contributions-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30&logoColor=white" alt="03 / contributions"/>
+<img src="https://img.shields.io/badge/03──contributions-1e1e30?style=flat-square&labelColor=7c3aed&color=1e1e30" alt="03 / contributions"/>
 
 <br/><br/>
 

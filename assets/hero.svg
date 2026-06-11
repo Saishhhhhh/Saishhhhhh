@@ -1,95 +1,121 @@
-<svg width="860" height="300" viewBox="0 0 860 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="860" height="420" viewBox="0 0 860 420" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="accentbar" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#7c3aed"/>
-      <stop offset="100%" style="stop-color:#06b6d4"/>
-    </linearGradient>
-    <radialGradient id="glow1" cx="85%" cy="15%" r="40%">
-      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.18"/>
+    <radialGradient id="glow1" cx="85%" cy="10%" r="45%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.22"/>
       <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
     </radialGradient>
-    <radialGradient id="glow2" cx="30%" cy="90%" r="30%">
-      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:0.10"/>
+    <radialGradient id="glow2" cx="15%" cy="92%" r="35%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:0.13"/>
       <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:0"/>
     </radialGradient>
+    <radialGradient id="glow3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.04"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
+    </radialGradient>
     <clipPath id="outer">
-      <rect width="860" height="300" rx="12"/>
+      <rect width="860" height="420" rx="0"/>
     </clipPath>
-    <clipPath id="terminal">
-      <rect x="24" y="24" width="812" height="252" rx="10"/>
+    <clipPath id="termclip">
+      <rect x="20" y="20" width="820" height="380" rx="12"/>
     </clipPath>
+    <linearGradient id="bottomline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#7c3aed;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#06b6d4;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:0"/>
+    </linearGradient>
   </defs>
 
-  <!-- outer bg -->
-  <rect width="860" height="300" rx="12" fill="#0d0d14" clip-path="url(#outer)"/>
-  <rect width="860" height="300" rx="12" fill="url(#glow1)" clip-path="url(#outer)"/>
-  <rect width="860" height="300" rx="12" fill="url(#glow2)" clip-path="url(#outer)"/>
+  <!-- root bg -->
+  <rect width="860" height="420" fill="#0d0d14"/>
+  <rect width="860" height="420" fill="url(#glow1)"/>
+  <rect width="860" height="420" fill="url(#glow2)"/>
+  <rect width="860" height="420" fill="url(#glow3)"/>
 
   <!-- terminal card -->
-  <rect x="24" y="24" width="812" height="252" rx="10" fill="#13131f" stroke="#2a2a40" stroke-width="1"/>
+  <rect x="20" y="20" width="820" height="380" rx="12" fill="#13131f" stroke="#2a2a40" stroke-width="1"/>
 
-  <!-- terminal titlebar -->
-  <rect x="24" y="24" width="812" height="38" rx="10" fill="#1a1a2e" clip-path="url(#terminal)"/>
-  <rect x="24" y="50" width="812" height="12" fill="#1a1a2e"/>
-  <line x1="24" y1="62" x2="836" y2="62" stroke="#2a2a40" stroke-width="1"/>
+  <!-- titlebar bg -->
+  <rect x="20" y="20" width="820" height="44" rx="12" fill="#1a1a2e" clip-path="url(#termclip)"/>
+  <rect x="20" y="52" width="820" height="12" fill="#1a1a2e"/>
+  <line x1="20" y1="64" x2="840" y2="64" stroke="#2a2a40" stroke-width="1"/>
 
   <!-- traffic lights -->
-  <circle cx="48" cy="43" r="5.5" fill="#ff5f57"/>
-  <circle cx="66" cy="43" r="5.5" fill="#ffbd2e"/>
-  <circle cx="84" cy="43" r="5.5" fill="#28c840"/>
+  <circle cx="46" cy="42" r="6" fill="#ff5f57"/>
+  <circle cx="66" cy="42" r="6" fill="#ffbd2e"/>
+  <circle cx="86" cy="42" r="6" fill="#28c840"/>
 
-  <!-- terminal title text -->
-  <text x="430" y="47" font-family="'Fira Code', 'Courier New', monospace" font-size="11" fill="#555555" text-anchor="middle">saish@github ~ whoami</text>
+  <!-- tab label -->
+  <rect x="240" y="28" width="380" height="28" rx="5" fill="#13131f" stroke="#2a2a40" stroke-width="1"/>
+  <text x="430" y="47" font-family="'Fira Code','Courier New',monospace" font-size="12" fill="#6b7280" text-anchor="middle">saish@github: ~/profile  —  zsh</text>
 
-  <!-- terminal body -->
-  <!-- line 1: command -->
-  <text x="48" y="92" font-family="'Fira Code', 'Courier New', monospace" font-size="13" fill="#7c3aed">❯ </text>
-  <text x="68" y="92" font-family="'Fira Code', 'Courier New', monospace" font-size="13" fill="#e2e8f0">cat profile.json</text>
+  <!-- ── BODY ── -->
 
-  <!-- JSON output -->
-  <text x="58" y="116" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#9ca3af">{</text>
+  <!-- prompt line -->
+  <text x="44" y="100" font-family="'Fira Code','Courier New',monospace" font-size="15" fill="#7c3aed">❯</text>
+  <text x="62" y="100" font-family="'Fira Code','Courier New',monospace" font-size="15" fill="#4b5563">~</text>
+  <text x="78" y="100" font-family="'Fira Code','Courier New',monospace" font-size="15" fill="#e2e8f0">cat profile.json</text>
+
+  <!-- opening brace -->
+  <text x="44" y="130" font-family="'Fira Code','Courier New',monospace" font-size="15" fill="#e2e8f0">{</text>
 
   <!-- name -->
-  <text x="74" y="136" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#06b6d4">"name"</text>
-  <text x="130" y="136" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#9ca3af">: </text>
-  <text x="145" y="136" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#86efac">"Saish Baviskar"</text>
-  <text x="282" y="136" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#9ca3af">,</text>
+  <text x="72" y="158" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#06b6d4">"name"</text>
+  <text x="150" y="158" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#6b7280">:</text>
+  <text x="164" y="158" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#86efac">"Saish Baviskar"</text>
+  <text x="323" y="158" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#6b7280">,</text>
 
   <!-- role -->
-  <text x="74" y="156" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#06b6d4">"role"</text>
-  <text x="122" y="156" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#9ca3af">: </text>
-  <text x="137" y="156" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#fbbf24">["AI Engineer", "ML Engineer", "Full-Stack AI Builder"]</text>
-  <text x="613" y="156" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#9ca3af">,</text>
+  <text x="72" y="186" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#06b6d4">"role"</text>
+  <text x="142" y="186" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#6b7280">:</text>
+  <text x="156" y="186" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#fbbf24">[</text>
+  <text x="167" y="186" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#a5f3fc">"AI Engineer"</text>
+  <text x="310" y="186" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#6b7280">,</text>
+  <text x="322" y="186" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#a5f3fc">"ML Engineer"</text>
+  <text x="463" y="186" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#6b7280">,</text>
+  <text x="475" y="186" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#a5f3fc">"Full-Stack AI Builder"</text>
+  <text x="685" y="186" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#fbbf24">]</text>
+  <text x="696" y="186" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#6b7280">,</text>
 
   <!-- currently -->
-  <text x="74" y="176" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#06b6d4">"currently"</text>
-  <text x="178" y="176" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#9ca3af">: </text>
-  <text x="193" y="176" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#86efac">"Cantilever Labs · AI/ML Intern"</text>
-  <text x="467" y="176" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#9ca3af">,</text>
+  <text x="72" y="214" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#06b6d4">"currently"</text>
+  <text x="210" y="214" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#6b7280">:</text>
+  <text x="224" y="214" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#86efac">"Cantilever Labs · AI/ML Intern"</text>
+  <text x="523" y="214" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#6b7280">,</text>
 
   <!-- location -->
-  <text x="74" y="196" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#06b6d4">"location"</text>
-  <text x="170" y="196" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#9ca3af">: </text>
-  <text x="185" y="196" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#86efac">"Pune, India"</text>
-  <text x="311" y="196" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#9ca3af">,</text>
+  <text x="72" y="242" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#06b6d4">"location"</text>
+  <text x="196" y="242" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#6b7280">:</text>
+  <text x="210" y="242" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#86efac">"Pune, India 🇮🇳"</text>
+  <text x="372" y="242" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#6b7280">,</text>
 
   <!-- focus -->
-  <text x="74" y="216" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#06b6d4">"focus"</text>
-  <text x="130" y="216" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#9ca3af">: </text>
-  <text x="145" y="216" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#fbbf24">["Agentic AI", "RAG Systems", "LLM Pipelines"]</text>
-  <text x="512" y="216" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#9ca3af">,</text>
+  <text x="72" y="270" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#06b6d4">"focus"</text>
+  <text x="158" y="270" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#6b7280">:</text>
+  <text x="172" y="270" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#fbbf24">[</text>
+  <text x="183" y="270" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#c4b5fd">"Agentic AI"</text>
+  <text x="310" y="270" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#6b7280">,</text>
+  <text x="322" y="270" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#c4b5fd">"RAG Systems"</text>
+  <text x="461" y="270" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#6b7280">,</text>
+  <text x="473" y="270" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#c4b5fd">"LLM Pipelines"</text>
+  <text x="622" y="270" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#fbbf24">]</text>
+  <text x="633" y="270" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#6b7280">,</text>
 
-  <!-- open to -->
-  <text x="74" y="236" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#06b6d4">"status"</text>
-  <text x="146" y="236" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#9ca3af">: </text>
-  <text x="161" y="236" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#86efac">"Open to Roles"</text>
+  <!-- status -->
+  <text x="72" y="298" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#06b6d4">"status"</text>
+  <text x="168" y="298" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#6b7280">:</text>
+  <text x="182" y="298" font-family="'Fira Code','Courier New',monospace" font-size="14.5" fill="#86efac">"Open to Roles 🚀"</text>
 
   <!-- closing brace -->
-  <text x="58" y="256" font-family="'Fira Code', 'Courier New', monospace" font-size="12.5" fill="#9ca3af">}</text>
+  <text x="44" y="326" font-family="'Fira Code','Courier New',monospace" font-size="15" fill="#e2e8f0">}</text>
 
-  <!-- blinking cursor line -->
-  <text x="48" y="256" font-family="'Fira Code', 'Courier New', monospace" font-size="13" fill="#7c3aed">❯ </text>
-  <rect x="68" y="244" width="8" height="14" fill="#7c3aed" opacity="0.9">
+  <!-- next prompt + blinking cursor -->
+  <text x="44" y="358" font-family="'Fira Code','Courier New',monospace" font-size="15" fill="#7c3aed">❯</text>
+  <text x="62" y="358" font-family="'Fira Code','Courier New',monospace" font-size="15" fill="#4b5563">~</text>
+  <rect x="80" y="344" width="9" height="16" fill="#7c3aed">
     <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
   </rect>
+
+  <!-- bottom gradient line -->
+  <rect x="20" y="399" width="820" height="1" fill="url(#bottomline)"/>
 </svg>
