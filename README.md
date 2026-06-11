@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero_v2.svg" width="100%" alt="Saish Baviskar — AI Engineer"/>
+  <img src="./assets/hero_v3.svg" width="100%" alt="Saish Baviskar — AI Engineer"/>
 </div>
 
 <br/>
