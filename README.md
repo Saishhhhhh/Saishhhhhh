@@ -25,26 +25,13 @@
 
 <!-- 01 / tech stack -->
 <div align="center">
-  <img src="./assets/tech_stack.svg?v=1.0.1" width="100%" alt="Tech Stack"/>
+  <img src="https://raw.githubusercontent.com/Saishhhhhh/Saishhhhhh/main/assets/tech_stack.svg" width="100%" alt="Tech Stack"/>
 </div>
 
 ---
 
-<!-- 02 / github stats -->
-<img src="https://img.shields.io/badge/02──github_stats-0a0a12?style=flat-square&labelColor=7c3aed&color=0a0a12" alt="02 / github stats"/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saishhhhhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="55%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saishhhhhh&theme=tokyonight" width="100%"/>
-
-</div>
-
----
-
-<!-- 03 / contributions -->
-<img src="https://img.shields.io/badge/03──contributions-0a0a12?style=flat-square&labelColor=7c3aed&color=0a0a12" alt="03 / contributions"/>
+<!-- 02 / contributions -->
+<img src="https://img.shields.io/badge/02──contributions-0a0a12?style=flat-square&labelColor=7c3aed&color=0a0a12" alt="02 / contributions"/>
 
 <div align="center">
 

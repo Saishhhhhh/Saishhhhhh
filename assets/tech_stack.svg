@@ -29,27 +29,27 @@
   <text x="40" y="100" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="13" fill="#4b5563">// AI &amp; LLM Systems</text>
 
   <g transform="translate(40, 120)">
-    <rect width="108.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="108.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#38bdf8"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">LangChain</text>
   </g>
   <g transform="translate(160.5, 120)">
-    <rect width="108.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="108.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#a78bfa"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">LangGraph</text>
   </g>
   <g transform="translate(281.0, 120)">
-    <rect width="57.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="57.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#fb7185"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">RAG</text>
   </g>
   <g transform="translate(350.5, 120)">
-    <rect width="117.0" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="117.0" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#34d399"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Agentic AI</text>
   </g>
   <g transform="translate(479.5, 120)">
-    <rect width="57.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="57.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#f472b6"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">MCP</text>
   </g>
@@ -57,37 +57,37 @@
   <text x="40" y="181" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="13" fill="#4b5563">// ML / DL</text>
 
   <g transform="translate(40, 201)">
-    <rect width="91.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="91.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#f97316"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">PyTorch</text>
   </g>
   <g transform="translate(143.5, 201)">
-    <rect width="117.0" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="117.0" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#facc15"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">TensorFlow</text>
   </g>
   <g transform="translate(272.5, 201)">
-    <rect width="74.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="74.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#ef4444"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Keras</text>
   </g>
   <g transform="translate(359.0, 201)">
-    <rect width="134.0" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="134.0" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#60a5fa"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Scikit-Learn</text>
   </g>
   <g transform="translate(505.0, 201)">
-    <rect width="125.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="125.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#fbbf24"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">HuggingFace</text>
   </g>
   <g transform="translate(642.5, 201)">
-    <rect width="74.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="74.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#c084fc"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">SBERT</text>
   </g>
   <g transform="translate(40, 237)">
-    <rect width="134.0" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="134.0" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#f87171"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Transformers</text>
   </g>
@@ -95,27 +95,27 @@
   <text x="40" y="298" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="13" fill="#4b5563">// Languages</text>
 
   <g transform="translate(40, 318)">
-    <rect width="83.0" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="83.0" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#38bdf8"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Python</text>
   </g>
   <g transform="translate(135.0, 318)">
-    <rect width="117.0" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="117.0" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#facc15"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">JavaScript</text>
   </g>
   <g transform="translate(264.0, 318)">
-    <rect width="57.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="57.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#818cf8"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">SQL</text>
   </g>
   <g transform="translate(333.5, 318)">
-    <rect width="40.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="40.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#60a5fa"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">C</text>
   </g>
   <g transform="translate(386.0, 318)">
-    <rect width="57.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="57.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#3b82f6"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">C++</text>
   </g>
@@ -123,32 +123,32 @@
   <text x="40" y="379" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="13" fill="#4b5563">// Databases &amp; Vector Stores</text>
 
   <g transform="translate(40, 399)">
-    <rect width="100.0" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="100.0" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#a78bfa"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Pinecone</text>
   </g>
   <g transform="translate(152.0, 399)">
-    <rect width="100.0" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="100.0" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#fb923c"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">ChromaDB</text>
   </g>
   <g transform="translate(264.0, 399)">
-    <rect width="91.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="91.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#34d399"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">MongoDB</text>
   </g>
   <g transform="translate(367.5, 399)">
-    <rect width="117.0" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="117.0" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#60a5fa"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">PostgreSQL</text>
   </g>
   <g transform="translate(496.5, 399)">
-    <rect width="74.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="74.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#f87171"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">MySQL</text>
   </g>
   <g transform="translate(583.0, 399)">
-    <rect width="100.0" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="100.0" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#10b981"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Supabase</text>
   </g>
@@ -156,32 +156,32 @@
   <text x="40" y="460" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="13" fill="#4b5563">// Web &amp; Backend</text>
 
   <g transform="translate(40, 480)">
-    <rect width="74.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="74.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#22d3ee"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">React</text>
   </g>
   <g transform="translate(126.5, 480)">
-    <rect width="91.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="91.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#059669"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">FastAPI</text>
   </g>
   <g transform="translate(230.0, 480)">
-    <rect width="91.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="91.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#4ade80"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Node.js</text>
   </g>
   <g transform="translate(333.5, 480)">
-    <rect width="91.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="91.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#94a3b8"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Express</text>
   </g>
   <g transform="translate(437.0, 480)">
-    <rect width="74.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="74.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#a855f7"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Redux</text>
   </g>
   <g transform="translate(523.5, 480)">
-    <rect width="100.0" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="100.0" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#38bdf8"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Tailwind</text>
   </g>
@@ -189,17 +189,17 @@
   <text x="40" y="541" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="13" fill="#4b5563">// DevOps &amp; Tools</text>
 
   <g transform="translate(40, 561)">
-    <rect width="83.0" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="83.0" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#2563eb"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Docker</text>
   </g>
   <g transform="translate(135.0, 561)">
-    <rect width="57.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="57.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#f97316"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Git</text>
   </g>
   <g transform="translate(204.5, 561)">
-    <rect width="91.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="91.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#ff6c37"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Postman</text>
   </g>
@@ -207,17 +207,17 @@
   <text x="40" y="622" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="13" fill="#4b5563">// Creative</text>
 
   <g transform="translate(40, 642)">
-    <rect width="108.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="108.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#38bdf8"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Photoshop</text>
   </g>
   <g transform="translate(160.5, 642)">
-    <rect width="142.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="142.5" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#818cf8"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">After Effects</text>
   </g>
   <g transform="translate(315.0, 642)">
-    <rect width="134.0" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
+    <rect width="134.0" height="28" rx="5" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
     <circle cx="16" cy="14" r="4.5" fill="#a78bfa"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Premiere Pro</text>
   </g>
