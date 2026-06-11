@@ -22,7 +22,7 @@
 
   <!-- Title -->
   <text x="40" y="60" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-weight="bold" font-size="16" fill="#a78bfa">
-    <tspan fill="#7c3aed"># </tspan>01 / TECH STACK
+    <tspan fill="#7c3aed"># </tspan>TECH STACK
   </text>
 
   <!-- Category: AI &amp; LLM Systems -->

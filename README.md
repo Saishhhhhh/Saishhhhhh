@@ -30,8 +30,7 @@
 
 ---
 
-<!-- 02 / contributions -->
-<img src="https://img.shields.io/badge/02──contributions-0a0a12?style=flat-square&labelColor=7c3aed&color=0a0a12" alt="02 / contributions"/>
+<!-- contributions -->
 
 <div align="center">
 
@@ -44,7 +43,7 @@
 
 <div align="center">
 
-*"Write code. Break code. Fix it. Repeat."*
+*"I make projects to solve my own problems"*
 
 ⭐ if you like what you see, drop a star · let's build something
 

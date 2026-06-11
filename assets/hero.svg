@@ -77,7 +77,7 @@
 
   <!-- prompt line -->
   <text y="92" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="14.5">
-    <tspan x="44" fill="#a78bfa">❯ </tspan><tspan fill="#4b5563">~ </tspan><tspan fill="#e2e8f0">cat saish.kson</tspan>
+    <tspan x="44" fill="#a78bfa">❯ </tspan><tspan fill="#4b5563">~ </tspan><tspan fill="#e2e8f0">saish.json</tspan>
   </text>
 
   <!-- { -->
