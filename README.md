@@ -5,14 +5,27 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/socials.svg" width="100%" alt="Socials"/>
+
+<a href="https://www.linkedin.com/in/saishhhhhh/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://saishhhhhh.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://discord.com/users/saish4593" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="mailto:bsaish404@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <!-- 01 / tech stack -->
 <div align="center">
-  <img src="./assets/skills.svg" width="100%" alt="Tech Stack"/>
+  <img src="./assets/tech_stack.svg?v=1.0.1" width="100%" alt="Tech Stack"/>
 </div>
 
 ---
