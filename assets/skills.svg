@@ -25,8 +25,8 @@
     <tspan fill="#7c3aed"># </tspan>01 / TECH STACK
   </text>
 
-  <!-- Category: AI & LLM Systems -->
-  <text x="40" y="100" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="13" fill="#4b5563">// AI & LLM Systems</text>
+  <!-- Category: AI &amp; LLM Systems -->
+  <text x="40" y="100" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="13" fill="#4b5563">// AI &amp; LLM Systems</text>
 
   <g transform="translate(40, 120)">
     <rect width="108.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
@@ -119,8 +119,8 @@
     <circle cx="16" cy="14" r="4.5" fill="#3b82f6"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">C++</text>
   </g>
-  <!-- Category: Databases & Vector Stores -->
-  <text x="40" y="379" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="13" fill="#4b5563">// Databases & Vector Stores</text>
+  <!-- Category: Databases &amp; Vector Stores -->
+  <text x="40" y="379" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="13" fill="#4b5563">// Databases &amp; Vector Stores</text>
 
   <g transform="translate(40, 399)">
     <rect width="100.0" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
@@ -152,8 +152,8 @@
     <circle cx="16" cy="14" r="4.5" fill="#10b981"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Supabase</text>
   </g>
-  <!-- Category: Web & Backend -->
-  <text x="40" y="460" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="13" fill="#4b5563">// Web & Backend</text>
+  <!-- Category: Web &amp; Backend -->
+  <text x="40" y="460" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="13" fill="#4b5563">// Web &amp; Backend</text>
 
   <g transform="translate(40, 480)">
     <rect width="74.5" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
@@ -185,8 +185,8 @@
     <circle cx="16" cy="14" r="4.5" fill="#38bdf8"/>
     <text x="28" y="18" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#e2e8f0">Tailwind</text>
   </g>
-  <!-- Category: DevOps & Tools -->
-  <text x="40" y="541" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="13" fill="#4b5563">// DevOps & Tools</text>
+  <!-- Category: DevOps &amp; Tools -->
+  <text x="40" y="541" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="13" fill="#4b5563">// DevOps &amp; Tools</text>
 
   <g transform="translate(40, 561)">
     <rect width="83.0" height="28" rx="14" fill="#111120" stroke="#1e1e35" stroke-width="1"/>
